@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+## About Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzz_tushar.singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-singh-1b816a326) 
 
 # 💻 Tech Stack:
